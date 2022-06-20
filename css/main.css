@@ -219,6 +219,7 @@ body{
   display: flex;
   align-items: center;
   margin-left: auto;
+  padding: 0;
   list-style: none;
 }
 
